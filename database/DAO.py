@@ -2,7 +2,7 @@ from database.DB_connect import DBConnect
 from model.retailer import Retailer
 from model.vendita import Vendita
 
-
+# ho aggiunto questa riga
 class DAO():
 
     @staticmethod
